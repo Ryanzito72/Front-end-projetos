@@ -1,1 +1,1 @@
-[Função ContadorJS](https://github.com/Ryanzito72/Front-end-projetos/Contador%20JS/)
+[Função ContadorJS](https://ryanzito72.github.io/Front-end-projetos/Contador%20JS/)
